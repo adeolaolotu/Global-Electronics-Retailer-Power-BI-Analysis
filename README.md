@@ -35,7 +35,7 @@ The model follows a star schema, with Sales as the fact table at the center, con
 - Top/bottom performing products and brands
 - Category breakdown
 - Monthly trend
-![Product Sales]()
+![Product Sales](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI-Analysis/blob/baa53963e07fbffdebb7f4f6b55f7a5085f737ed/Electronic%20Store%20-%20Product%20Sales.PNG)
 
 ### Dashboard 2 - Customer Analysis
 - Customer demographics
@@ -45,13 +45,13 @@ The model follows a star schema, with Sales as the fact table at the center, con
 - Retention rate trends
 - Revenue by age group
 - Customer-level deep dive
-![Customer Analysis]()
+![Customer Analysis](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI-Analysis/blob/baa53963e07fbffdebb7f4f6b55f7a5085f737ed/Electronic%20Store%20-%20Customer%20Analysis.PNG)
 
 ### Dashboard 3 - Store Analysis
 - Store location performance
 - Online vs. physical channel mix
 - Store age category
 - Revenue per square meter
-![Store Analysis]()
+![Store Analysis](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI-Analysis/blob/baa53963e07fbffdebb7f4f6b55f7a5085f737ed/Electronic%20Store%20-%20Store%20Analysis.PNG)
 
   
