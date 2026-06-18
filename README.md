@@ -26,3 +26,32 @@ The model follows a star schema, with Sales as the fact table at the center, con
 ![Data Modelling](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI-Analysis/blob/5a94469da467ce61849ea77a79a59becb6d91b72/Electronic%20Store%20-%20Data%20Modelling.PNG)
 
 **Key DAX measures include:** Revenue, Profit, Profit Margin %, Average Order Value, Customer Retention Rate, Revenue per Square Meter, and a dynamic color-coded YoY indicator for KPI cards.
+
+## Dashboards
+
+### Dashboard 1 - Product Sales
+- Revenue 
+- Profit
+- Top/bottom performing products and brands
+- Category breakdown
+- Monthly trend
+![Product Sales]()
+
+### Dashboard 2 - Customer Analysis
+- Customer demographics
+- Age group segmentation
+- Gender split
+- Top customers by revenue
+- Retention rate trends
+- Revenue by age group
+- Customer-level deep dive
+![Customer Analysis]()
+
+### Dashboard 3 - Store Analysis
+- Store location performance
+- Online vs. physical channel mix
+- Store age category
+- Revenue per square meter
+![Store Analysis]()
+
+  
