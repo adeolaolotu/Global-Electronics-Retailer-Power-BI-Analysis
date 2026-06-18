@@ -23,5 +23,6 @@ The dataset consists of six related tables:
 
 ## Data Modelling
 The model follows a star schema, with Sales as the fact table at the center, connected to four dimension tables: Customers, Products, Stores, and a custom Calendar date table. 
-![Data Modelling]()
+![Data Modelling](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI-Analysis/blob/5a94469da467ce61849ea77a79a59becb6d91b72/Electronic%20Store%20-%20Data%20Modelling.PNG)
+
 **Key DAX measures include:** Revenue, Profit, Profit Margin %, Average Order Value, Customer Retention Rate, Revenue per Square Meter, and a dynamic color-coded YoY indicator for KPI cards.
