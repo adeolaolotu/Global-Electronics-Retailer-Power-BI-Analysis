@@ -1,7 +1,6 @@
 # Global-Electronics-Retailer-Power-BI-Analysis
 ## Overview
 This project explores the full sales, customer, product, and store performance of a global electronics retailer using Power BI. It covers the complete analytics workflow: data cleaning in Power Query, star-schema data modeling, DAX measure creation, and a four-page interactive dashboard built for executive reporting.
-
 ### Dataset
 The dataset consists of six related tables:
 #### Sales 
