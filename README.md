@@ -73,18 +73,13 @@ Seasonality
 - 
 ### Average Order Value
 - AOV is slipping even as order volume grows. Recommend investigating product mix shifts and testing bundling or upsell strategies to lift basket size.
-- 
 ### Product & Brand Performance
 - A small number of brands and the Computers category drive most profit. Recommend prioritizing investment there while reviewing the long-term fit of consistently weak performers.
-- 
 ### Geographic & Channel Performance
 - The business is heavily reliant on physical stores and the US market. Recommend evaluating online channel investment given the shift toward e-commerce industry-wide.
-
 ### Store Maturity & Efficiency
 - Older stores significantly outperform newer ones, and store efficiency (revenue per square meter) varies widely by country. Recommend reviewing new-store ramp-up support and auditing underperforming markets like Australia.
-
 ### Customer Base
 - The 60+ age group is the most valuable customer segment by far, while 18–25 year-olds are underrepresented. Recommend protecting loyalty among older customers while developing strategies to attract younger buyers.
-
 ### Retention
 - Retention grew steadily for four years before dropping in 2020. Recommend identifying what drove the 2016–2019 improvement and working to restore those conditions.
