@@ -9,3 +9,19 @@ The dataset consists of six related tables:
 - **Stores**: 67 stores across 8 countries plus one online store
 - **Exchange Rates**: Daily currency exchange rates for USD, CAD, AUD, GBP, and EUR
 - **Data Dictionary**: Field-level documentation for all tables
+  
+## Tools Used
+- Power BI Desktop
+- Power Query (ETL & Data Cleaning)
+- DAX (Data Modelling & Calculations)
+
+## Data Cleaning
+**Key cleaning steps performed in Power Query:**
+- Converted Order Date, Delivery Date, Birthday, and Open Date from text to proper date format (corrected a locale mismatch causing parsing errors)
+- Confirmed null Delivery Date values were valid (physical store orders have no delivery, only online orders do)
+- Cleaned Unit Cost USD and Unit Price USD by removing currency symbols and converting to numeric
+
+## Data Modelling
+The model follows a star schema, with Sales as the fact table at the center, connected to four dimension tables: Customers, Products, Stores, and a custom Calendar date table. 
+![Data Modelling]()
+**Key DAX measures include:** Revenue, Profit, Profit Margin %, Average Order Value, Customer Retention Rate, Revenue per Square Meter, and a dynamic color-coded YoY indicator for KPI cards.
