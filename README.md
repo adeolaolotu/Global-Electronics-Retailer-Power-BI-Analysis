@@ -70,7 +70,6 @@ The model follows a star schema, with Sales as the fact table at the center, con
 - Growth from 2016–2019 reversed sharply in 2020 in line with COVID-19. Recommend tracking recovery against the 2019 baseline and building demand-shock contingency plans.
 Seasonality
 - December is consistently the strongest month; April is consistently the weakest, every year. Recommend aligning inventory, staffing, and promotions accordingly — heavier investment ahead of December, and using the April lull for clearance sales or internal initiatives like staff training.
-- 
 ### Average Order Value
 - AOV is slipping even as order volume grows. Recommend investigating product mix shifts and testing bundling or upsell strategies to lift basket size.
 ### Product & Brand Performance
@@ -83,3 +82,7 @@ Seasonality
 - The 60+ age group is the most valuable customer segment by far, while 18–25 year-olds are underrepresented. Recommend protecting loyalty among older customers while developing strategies to attract younger buyers.
 ### Retention
 - Retention grew steadily for four years before dropping in 2020. Recommend identifying what drove the 2016–2019 improvement and working to restore those conditions.
+
+## References
+![Dataset]()
+![PowerBI File]()
