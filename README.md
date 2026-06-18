@@ -84,5 +84,5 @@ Seasonality
 - Retention grew steadily for four years before dropping in 2020. Recommend identifying what drove the 2016–2019 improvement and working to restore those conditions.
 
 ## References
-![Dataset]()
-![PowerBI File]()
+![Dataset](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI-Analysis/blob/99226e6904771f50bc39397da96a79dcca81fe7b/Global%2BElectronics%2BRetailer.zip)
+![PowerBI File](https://github.com/adeolaolotu/Global-Electronics-Retailer-Power-BI Analysis/blob/99226e6904771f50bc39397da96a79dcca81fe7b/Electronics%20store%20Dashboard.pbix)
